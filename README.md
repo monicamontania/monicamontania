@@ -2,7 +2,7 @@
 
 - 👋 oi, eu sou @monicamontania
 - 👀 eu estou interessada em apreder fazer site 
-- 🌱 estou estudando jaua script,html e css
+- 🌱 estou estudando java script,html e css
 - 💞️ meu habby é assistir série 
 - 📫 você pode me encontrar monica.montania@escola.pr.gov.br
 
